@@ -1,0 +1,26 @@
+{
+  "shipmentMethods": {
+    "ship-a": {
+      "method": "ship-a",
+      "paymentMethods": {
+        "pay-a": {
+          "content": "test 1"
+        },
+        "pay-b": {
+          "content": "test 2"
+        }
+      }
+    },
+    "ship-b": {
+      "method": "ship-b",
+      "paymentMethods": {
+        "pay-a": {
+          "content": "test 3"
+        },
+        "pay-b": {
+          "content": "test 4"
+        }
+      }
+    }
+  }
+}
